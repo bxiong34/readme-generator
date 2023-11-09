@@ -36,6 +36,8 @@ THEN I am taken to the corresponding section of the README
 
 When a user answers some questions, the generator will then use those inputs to create a README file based on the user's inputs.
 
+![Alt text](<assets/Screenshot 2023-11-08 at 6.28.48 PM.png>)
+
 <video src="assets/Challenge9.mp4" controls title="Title"></video>
 
 ---
