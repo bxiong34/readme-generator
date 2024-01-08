@@ -1,9 +1,9 @@
-# README Generator
+# fdas
   ## License 
-  [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+  [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0) [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
   ## Description 
-  The purpose of this challange is to allow users to quickly create a README file.
+  fds
 
   ## Table of Contents
   - [License](#license)
@@ -15,16 +15,15 @@
   - [Questions](#questions)
 
   ## Installation 
-  Users will have to type in "npm i" on the command line.
+  adsf
   ## Usage 
-  Users will have to answer some questions so the generator can use those inputs to create a README file.
+  asdf
   ## Contributing 
-  [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](code_of_conduct.md)
-  Users can contribute by emailing me.
+  sadf
 
   ## Tests 
-  There are currently no tests.
+  safd
   ## Questions 
   If there are any questions, please reach out to me by
-  - Github: [janedoe](https://github.com/janedoe)
-  - Email: [janedoe@gmail.com](mailto:janedoe@gmail.com)
+  - Github: [daf](https://github.com/daf)
+  - Email: [dk@.com](mailto:dk@.com)
