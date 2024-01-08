@@ -1,9 +1,9 @@
-# fdas
+# README Generator
   ## License 
-  [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0) [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
   ## Description 
-  fds
+  A user can easily create a README.md file based on what they input.
 
   ## Table of Contents
   - [License](#license)
@@ -15,15 +15,15 @@
   - [Questions](#questions)
 
   ## Installation 
-  adsf
+  Npm init is required to install.
   ## Usage 
-  asdf
+  Using the terminal and typing in "node index.js," a series of questions will then pop up in the terminal for the user to answer. Once all the questions are completed, a README.md will then be created.
   ## Contributing 
-  sadf
+  Others can contribute to the project by contacting me through email.
 
   ## Tests 
-  safd
+  Users can use the terminal to test the generator.
   ## Questions 
   If there are any questions, please reach out to me by
-  - Github: [daf](https://github.com/daf)
-  - Email: [dk@.com](mailto:dk@.com)
+  - Github: [bxiong34](https://github.com/bxiong34)
+  - Email: [bxiong@mail.com](mailto:bxiong@mail.com)

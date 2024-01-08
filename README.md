@@ -36,10 +36,10 @@ THEN I am taken to the corresponding section of the README
 
 When a user answers some questions, the generator will then use those inputs to create a README file based on the user's inputs.
 
-![Alt text](<assets/Screenshot 2023-11-08 at 6.28.48 PM.png>)
+![Alt text](<assets/Screenshot 2024-01-07 at 8.43.37 PM.png>)
 
-<video src="assets/Challenge9.mp4" controls title="Title"></video>
-https://drive.google.com/file/d/1pkywj9NzFI6bTpHEsLS-cqT1sVpq-yyN/view?usp=sharing
+[![Alt text](<assets/Screenshot 2024-01-07 at 8.41.28 PM.png>)](https://drive.google.com/file/d/1LuPLCMtxEdJlfBgdB74Ok3Gppo9xIZ7h/view?usp=sharing)
+
 ---
 
 © 2023 Bao Xiong. All Rights Reserved.
